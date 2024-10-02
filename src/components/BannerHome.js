@@ -78,7 +78,7 @@ const BannerHome = () => {
                                         <span>|</span>
                                         <p>View: {Number(data.popularity).toFixed(0)}</p>
                                     </div>
-                                    <button className='px-4 py-2 text-black font-bold rounded mt-4 bg-white hover:bg-gradient-to-l from-blue-500 to-blue-200 shadow-md transition-all'>
+                                    <button className='px-4 py-2 text-black font-bold rounded mt-4 bg-white hover:bg-gradient-to-l from-orange-500 to-orange-200 shadow-md transition-all'>
                                         Play Now
                                     </button>
                                 </div>
